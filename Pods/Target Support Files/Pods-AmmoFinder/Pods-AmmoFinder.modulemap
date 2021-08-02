@@ -1,0 +1,6 @@
+module Pods_AmmoFinder {
+  umbrella header "Pods-AmmoFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
